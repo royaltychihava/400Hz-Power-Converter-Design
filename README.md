@@ -48,7 +48,7 @@ Closed-loop control system including delay to account for real-world microcontro
 ---
 
 ### Controller Simplification
-![Controller Comparison](Bode_plot_of_PR_+inner_P_vs_PR+_inner_PR.png)
+![Controller Comparison](Bode_plot_of_PR_and_inner_P_vs_PR_and_inner_PR.png)
 
 Comparison of PR+PR and PR+P cascaded control structures showing similar frequency response, enabling reduced complexity.
 
